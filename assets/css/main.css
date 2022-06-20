@@ -1,0 +1,77 @@
+
+.background {
+  background-image: linear-gradient(rgba(0, 0, 0, .15), rgba(0, 0, 0, .15)), url("assets/images/background.png");
+}
+
+.brightness {
+  color: white;
+}
+
+.csnatched {
+  background-image: linear-gradient(rgba(0, 0, 0, .30), rgba(0, 0, 0, .30)), url("assets/images/snatched.png");
+}
+
+.hourglass {
+  background-image: linear-gradient(rgba(0, 0, 0, .30), rgba(0, 0, 0, .30)), url("assets/images/hourglass.png");
+}
+
+.dime-piece {
+  background-image: linear-gradient(rgba(0, 0, 0, .30), rgba(0, 0, 0, .30)), url("assets/images/dime-piece.png");
+}
+
+.apple-bottom {
+  background-image: linear-gradient(rgba(0, 0, 0, .30), rgba(0, 0, 0, .30)), url("assets/images/apple-bottom.png");
+}
+
+.f-face {
+  background-image: linear-gradient(rgba(0, 0, 0, .30), rgba(0, 0, 0, .30)), url("assets/images/face.png");
+}
+
+.f-arms {
+  background-image: linear-gradient(rgba(0, 0, 0, .30), rgba(0, 0, 0, .30)), url("assets/images/arms.png");
+}
+
+.f-legs {
+  background-image: linear-gradient(rgba(0, 0, 0, .30), rgba(0, 0, 0, .30)), url("assets/images/legs.png");
+}
+
+.w-teeth {
+  background-image: linear-gradient(rgba(0, 0, 0, .30), rgba(0, 0, 0, .30)), url("assets/images/teeth.png");
+}
+
+.tooth-gem {
+  background-image: linear-gradient(rgba(0, 0, 0, .30), rgba(0, 0, 0, .30)), url("assets/images/tooth-gem.png");
+}
+
+.full-lip {
+  background-image: linear-gradient(rgba(0, 0, 0, .30), rgba(0, 0, 0, .30)), url("assets/images/full-lips.png");
+}
+
+.ang-lips {
+  background-image: linear-gradient(rgba(0, 0, 0, .30), rgba(0, 0, 0, .30)), url("assets/images/ang-lips.png");
+}
+
+.quick-plump {
+  background-image: linear-gradient(rgba(0, 0, 0, .30), rgba(0, 0, 0, .30)), url("assets/images/quick-plump.png");
+}
+
+.grey-square {
+  background-image: linear-gradient(rgba(0, 0, 0, .30), rgba(0, 0, 0, .30));
+}
+
+.question-mark {
+  background-image: linear-gradient(rgba(0, 0, 0, .30), rgba(0, 0, 0, .30)), url("assets/images/question_mark.png");
+}
+
+.type-title {
+  font-size: 1.375rem;
+}
+
+.left-margin-align {
+  margin-left: 22rem;
+}
+
+/* .active {
+  display: block;
+} */
+

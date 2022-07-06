@@ -1,11 +1,11 @@
 <template>
   <div>
     <SecondHeader/>
-    <section class="flex sm:flex-row flex-col mt-24 m-16">
+    <section class="flex sm:flex-row flex-col sm:mt-24 mt-0 m-16">
       <div class="flex justify-center  mb-10 sm:w-2/4 w-full">
-        <img class="h-3/4 w-2/3" src="~/assets/images/face.png" alt="">
+        <img class="sm:visible invisible h-3/4 w-2/3" src="~/assets/images/face.png" alt="">
       </div>
-      <div class="mt-24 sm:w-2/4 w-full">
+      <div class="sm:mt-24 mt-0 sm:w-2/4 w-full">
         <h2 class="mb-8 text-4xl font-semibold">Flawless Face</h2>
         <p class="mb-12">Face only</p>
         <h3 class="mb-8 text-xl font-medium">Service Description</h3>

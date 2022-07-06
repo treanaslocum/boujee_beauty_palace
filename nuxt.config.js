@@ -12,9 +12,9 @@ export default {
       { name: 'format-detection', content: 'telephone=no' }
     ],
     script: [
-      {
-        src: "~/assets/js/script.js",
-      },
+      
+        "@/assets/js/main"
+  
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }

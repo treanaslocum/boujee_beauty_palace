@@ -1,8 +1,8 @@
 <template>
   <div>
-    <nav class="flex items-center justify-between  sm:pl-24 sm:pr-24 sm:pt-12 pl-12 pr-8 h-24 bg-black sm:bg-transparent">
+    <nav class="flex items-center justify-between  sm:pl-24 sm:pr-24 sm:pt-12 pl-12 pr-8 h-24 sm:bg-transparent">
       <NuxtLink to="/">
-      <img src="~assets/images/bbt.png" alt="Boujee Beauty Palace Logo"  class="sm:w-28 w-14 pt-4 sm:mb-0 mb-6 sm:pt-0">
+      <img src="~assets/images/brand-logo.png" alt="Boujee Beauty Palace Logo"  class="sm:w-28 w-14 pt-4 sm:mb-0 mb-6 sm:pt-0">
       </NuxtLink>
       <div class="flex flex-wrap justify-center items-center text-white sm:text-base text-xs " id="menu-links">
         <NuxtLink to="/services"><p class="sm:mr-9 mr-4 mb-8 mt-8 sm:mt-0 sm:mb-0 font-semibold">Services</p></NuxtLink>

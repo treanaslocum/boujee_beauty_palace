@@ -1,11 +1,11 @@
 <template>
   <div>
   
-   <nav class="flex items-center justify-between  sm:pl-24 sm:pr-24 sm:pt-12 pl-12 pr-8 h-24 bg-black sm:bg-transparent">
+   <nav class="flex items-center justify-between  sm:pl-24 sm:pr-24 sm:pt-12 pl-12 pr-8 h-24">
       <NuxtLink to="/">
-      <img src="~assets/images/bbt.png" alt="Boujee Beauty Palace Logo"  class="sm:w-28 w-14 pt-4 sm:mb-0 mb-6 sm:pt-0">
+      <img src="~assets/images/brand-logo.png" alt="Boujee Beauty Palace Logo"  class="sm:w-32 w-14 pt-4 sm:mb-0 mb-6 sm:pt-0">
       </NuxtLink>
-      <div class="flex flex-wrap justify-center items-center sm:text-black text-white sm:text-base text-xs" id="menu-links">
+      <div class="flex flex-wrap justify-center items-center sm:text-black sm:text-base text-xs" id="menu-links">
         <NuxtLink to="/services"><p class="sm:mr-9 mr-4 mb-8 mt-8 sm:mt-0 sm:mb-0 font-semibold">Services</p></NuxtLink>
         <!-- <NuxtLink to="/about"><p class="mr-9 font-semibold">About</p></NuxtLink> -->
         <NuxtLink to="/contact"><p class="font-semibold  sm:mb-0 sm:mr-9">Contact</p></NuxtLink>

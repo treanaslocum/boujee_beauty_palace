@@ -63,6 +63,32 @@
   background-image: linear-gradient(rgba(0, 0, 0, .30), rgba(0, 0, 0, .30)), url("assets/images/question_mark.png");
 }
 
+.ombre-brows {
+  background-image: linear-gradient(rgba(0, 0, 0, .30), rgba(0, 0, 0, .30)), url("assets/images/ombre-brows.png");
+}
+
+.combo-brows {
+  background-image: linear-gradient(rgba(0, 0, 0, .30), rgba(0, 0, 0, .30)), url("assets/images/combo-brows.jpg");
+}
+
+.touch-up {
+  background-image: linear-gradient(rgba(0, 0, 0, .30), rgba(0, 0, 0, .30)), url("assets/images/touch-up.png");
+}
+
+
+.lip-blush-full {
+  background-image: linear-gradient(rgba(0, 0, 0, .30), rgba(0, 0, 0, .30)), url("assets/images/lip-blush.jpg");
+}
+
+.lip-blush-ombre {
+  background-image: linear-gradient(rgba(0, 0, 0, .30), rgba(0, 0, 0, .30)), url("assets/images/lip-blush-ombre.png");
+}
+
+.lip-neutralization {
+  background-image: linear-gradient(rgba(0, 0, 0, .30), rgba(0, 0, 0, .30)), url("assets/images/lip-neutralization.png");
+}
+
+
 .type-title {
   font-size: 1.375rem;
 }

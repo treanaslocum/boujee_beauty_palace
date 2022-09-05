@@ -217,7 +217,7 @@
         </div>
       </div>    --> 
 
-      <h2 class="mb-20 mt-20 text-xl text-center font-medium">Lips</h2> 
+      <h2 class="mb-20 mt-20 text-xl text-center font-medium">Hyaluron Pen Lips</h2> 
 
       <div class="flex flex-wrap justify-center text-white">
         <div class="mb-8 sm:mb-0 ml-6 sm:ml-0 full-lip bg-cover bg-center">
@@ -278,6 +278,8 @@
         </div>
       </div> 
 
+      <h2 class="mb-20 mt-20 text-xl text-center font-medium">Blush Lips</h2> 
+      
       <div class="mt-20 flex flex-wrap justify-center text-white">
         <div class="mb-8 sm:mb-0 ml-6 sm:ml-0 lip-blush-full bg-cover bg-center">
           <div class="ml-6 mt-48 w-64 pb-12">
@@ -307,7 +309,7 @@
             <a href="https://squareup.com/appointments/book/myom8mso4y2qqh/LSP7M7T8R5985/start" class="mb-4 pt-2 pb-2 pl-20 pr-20 rounded text-white bg-pink-500 text-sm font-semibold">Book Now</a>
           </div>
         </div>
-        <div class="mb-8 sm:mb-0 ml-8 lip-neutralization bg-cover bg-center">
+        <div class="mb-8 sm:mb-0 ml-8 lip-neutralization-first bg-cover bg-center">
           <div class="ml-6 mt-48 w-64 pb-12">
             <NuxtLink to="/neutralization-first-step">
             <h4 class="mb-10 text-xl font-semibold type-title">Neutralization (1st step)</h4>

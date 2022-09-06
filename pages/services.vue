@@ -217,6 +217,67 @@
         </div>
       </div>    --> 
 
+      <h2 class="mb-20 mt-20 text-xl text-center font-medium">Blush Lips</h2> 
+      
+      <div class="mt-20 flex flex-wrap justify-center text-white">
+        <div class="mb-8 sm:mb-0 ml-6 sm:ml-0 lip-blush-full bg-cover bg-center">
+          <div class="ml-6 mt-48 w-64 pb-12">
+            <NuxtLink to="/lip-blush-full">
+            <h4 class="mb-10 text-xl font-semibold type-title">Lip Blush (Full)</h4>
+            </NuxtLink>
+            <!-- <p class="mb-4 h-12">1.2 ml (a full unit)</p> -->
+            <div class="mb-6 flex items-center">
+              <img class="w-6 mr-4" src="~assets/icons/clock.svg" alt="">
+              <p class="mr-20">3 hrs</p>
+              <p class="-ml-1 text-2xl font-medium">$400</p>
+            </div>
+            <a href="https://squareup.com/appointments/book/myom8mso4y2qqh/LSP7M7T8R5985/start" class="mb-4 pt-2 pb-2 pl-20 pr-20 rounded text-white bg-pink-500 text-sm font-semibold">Book Now</a>
+          </div>
+        </div>
+        <div class="mb-8 sm:mb-0 ml-8 lip-blush-ombre bg-cover bg-center">
+          <div class="ml-6 mt-48 w-64 pb-12">
+            <NuxtLink to="/lip-blush-ombre">
+            <h4 class="mb-10 text-xl font-semibold type-title">Lip Blush (Ombre)</h4>
+            </NuxtLink>
+            <!-- <p class="mb-4 h-12">1.8 ml's (1 1/2 units)</p> -->
+            <div class="mb-6 flex items-center">
+              <img class="w-6 mr-4" src="~assets/icons/clock.svg" alt="">
+              <p class="mr-20">3 hrs</p>
+              <p class="-ml-2 text-2xl font-medium">$450</p>
+            </div>
+            <a href="https://squareup.com/appointments/book/myom8mso4y2qqh/LSP7M7T8R5985/start" class="mb-4 pt-2 pb-2 pl-20 pr-20 rounded text-white bg-pink-500 text-sm font-semibold">Book Now</a>
+          </div>
+        </div>
+        <div class="mb-8 sm:mb-0 ml-8 lip-neutralization-first bg-cover bg-center">
+          <div class="ml-6 mt-48 w-64 pb-12">
+            <NuxtLink to="/neutralization-first-step">
+            <h4 class="mb-10 text-xl font-semibold type-title">Neutralization (1st step)</h4>
+            </NuxtLink>
+            <!-- <p class="mb-4 h-12 w-56">0.6 ml's (1/2 unit)</p> -->
+            <div class="mb-6 flex items-center">
+              <img class="w-6 mr-4" src="~assets/icons/clock.svg" alt="">
+              <p class="mr-20">3 hrs</p>
+              <p class="-ml-1 text-2xl font-medium">$450</p>
+            </div>
+            <a href="https://squareup.com/appointments/book/myom8mso4y2qqh/LSP7M7T8R5985/start" class="mb-4 pt-2 pb-2 pl-20 pr-20 rounded text-white bg-pink-500 text-sm font-semibold">Book Now</a>
+          </div>
+        </div>
+        <div class="mb-8 sm:mb-0 ml-8 lip-neutralization bg-cover bg-center">
+          <div class="ml-6 mt-48 w-64 pb-12">
+            <NuxtLink to="/neutralization-second-step">
+            <h4 class="mb-4 text-xl font-semibold type-title">Neutralization (2nd step)</h4>
+            </NuxtLink>
+            <!-- <p class="mb-4 h-12 w-64">Be a model. Have Instagram, TikTok pictures taken of your lips.</p> -->
+            <div class="mb-6 flex items-center">
+              <img class="w-6 mr-4" src="~assets/icons/clock.svg" alt="">
+              <p class="mr-20">2 hrs</p>
+              <p class="-ml-1 text-2xl font-medium">$150</p>
+            </div>
+            <a href="https://squareup.com/appointments/book/myom8mso4y2qqh/LSP7M7T8R5985/start" class="mb-4 pt-2 pb-2 pl-20 pr-20 rounded text-white bg-pink-500 text-sm font-semibold">Book Now</a>
+          </div>
+        </div>
+      </div>
+
       <h2 class="mb-20 mt-20 text-xl text-center font-medium">Hyaluron Pen Lips</h2> 
 
       <div class="flex flex-wrap justify-center text-white">
@@ -278,66 +339,7 @@
         </div>
       </div> 
 
-      <h2 class="mb-20 mt-20 text-xl text-center font-medium">Blush Lips</h2> 
       
-      <div class="mt-20 flex flex-wrap justify-center text-white">
-        <div class="mb-8 sm:mb-0 ml-6 sm:ml-0 lip-blush-full bg-cover bg-center">
-          <div class="ml-6 mt-48 w-64 pb-12">
-            <NuxtLink to="/lip-blush-full">
-            <h4 class="mb-10 text-xl font-semibold type-title">Lip Blush (Full)</h4>
-            </NuxtLink>
-            <!-- <p class="mb-4 h-12">1.2 ml (a full unit)</p> -->
-            <div class="mb-6 flex items-center">
-              <img class="w-6 mr-4" src="~assets/icons/clock.svg" alt="">
-              <p class="mr-20">3 hrs</p>
-              <p class="-ml-1 text-2xl font-medium">$400</p>
-            </div>
-            <a href="https://squareup.com/appointments/book/myom8mso4y2qqh/LSP7M7T8R5985/start" class="mb-4 pt-2 pb-2 pl-20 pr-20 rounded text-white bg-pink-500 text-sm font-semibold">Book Now</a>
-          </div>
-        </div>
-        <div class="mb-8 sm:mb-0 ml-8 lip-blush-ombre bg-cover bg-center">
-          <div class="ml-6 mt-48 w-64 pb-12">
-            <NuxtLink to="/lip-blush-ombre">
-            <h4 class="mb-10 text-xl font-semibold type-title">Lip Blush (Ombre)</h4>
-            </NuxtLink>
-            <!-- <p class="mb-4 h-12">1.8 ml's (1 1/2 units)</p> -->
-            <div class="mb-6 flex items-center">
-              <img class="w-6 mr-4" src="~assets/icons/clock.svg" alt="">
-              <p class="mr-20">3 hrs</p>
-              <p class="-ml-2 text-2xl font-medium">$450</p>
-            </div>
-            <a href="https://squareup.com/appointments/book/myom8mso4y2qqh/LSP7M7T8R5985/start" class="mb-4 pt-2 pb-2 pl-20 pr-20 rounded text-white bg-pink-500 text-sm font-semibold">Book Now</a>
-          </div>
-        </div>
-        <div class="mb-8 sm:mb-0 ml-8 lip-neutralization-first bg-cover bg-center">
-          <div class="ml-6 mt-48 w-64 pb-12">
-            <NuxtLink to="/neutralization-first-step">
-            <h4 class="mb-10 text-xl font-semibold type-title">Neutralization (1st step)</h4>
-            </NuxtLink>
-            <!-- <p class="mb-4 h-12 w-56">0.6 ml's (1/2 unit)</p> -->
-            <div class="mb-6 flex items-center">
-              <img class="w-6 mr-4" src="~assets/icons/clock.svg" alt="">
-              <p class="mr-20">3 hrs</p>
-              <p class="-ml-1 text-2xl font-medium">$450</p>
-            </div>
-            <a href="https://squareup.com/appointments/book/myom8mso4y2qqh/LSP7M7T8R5985/start" class="mb-4 pt-2 pb-2 pl-20 pr-20 rounded text-white bg-pink-500 text-sm font-semibold">Book Now</a>
-          </div>
-        </div>
-        <div class="mb-8 sm:mb-0 ml-8 lip-neutralization bg-cover bg-center">
-          <div class="ml-6 mt-48 w-64 pb-12">
-            <NuxtLink to="/neutralization-second-step">
-            <h4 class="mb-4 text-xl font-semibold type-title">Neutralization (2nd step)</h4>
-            </NuxtLink>
-            <!-- <p class="mb-4 h-12 w-64">Be a model. Have Instagram, TikTok pictures taken of your lips.</p> -->
-            <div class="mb-6 flex items-center">
-              <img class="w-6 mr-4" src="~assets/icons/clock.svg" alt="">
-              <p class="mr-20">2 hrs</p>
-              <p class="-ml-1 text-2xl font-medium">$150</p>
-            </div>
-            <a href="https://squareup.com/appointments/book/myom8mso4y2qqh/LSP7M7T8R5985/start" class="mb-4 pt-2 pb-2 pl-20 pr-20 rounded text-white bg-pink-500 text-sm font-semibold">Book Now</a>
-          </div>
-        </div>
-      </div>
 
       <h2 class="mb-20 mt-20 text-xl text-center font-medium">Annual Services</h2> 
 

@@ -14,7 +14,7 @@
         <div class="mb-6 flex items-center">
           <img class="w-6 mr-4" src="~assets/icons/clock-black.svg" alt="">
           <p class="mr-20">3 hrs</p>
-          <p class="-ml-2 text-2xl font-medium">$450</p>
+          <p class="-ml-2 text-2xl font-medium">$500</p>
         </div>
         <a href="https://squareup.com/appointments/book/myom8mso4y2qqh/LSP7M7T8R5985/start" class="mb-4 pt-2 pb-2 pl-20 pr-20 rounded text-white bg-pink-500 text-sm font-semibold">Book Now</a>
       </div>

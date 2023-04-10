@@ -7,7 +7,7 @@
       </div>
       <div class=" sm:mt-24 mt-0 sm:w-2/4 w-full">
         <h2 class="mb-8 text-4xl font-semibold">Dime Piece</h2>
-        <p class="mb-12">Stomach, Waist, Booty, and Arm Contouringg</p>
+        <p class="mb-12">Stomach, Waist, Booty, and Arm Contouring</p>
         <h3 class="mb-8 text-xl font-medium">Service Description</h3>
         <p class="mb-6 w-2/4">Ultrasonic Cavitation, Columbian wood tool therapy, RF Therapy, use of fat burning oils and special skin tightening oils</p>
      
